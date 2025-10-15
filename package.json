@@ -5,7 +5,7 @@
   "prettier": {},
   "dependencies": {
     "docz": "^2.2.0",
-    "expo": "^36.0.2",
+    "expo": "^48.0.0",
     "gatsby-plugin-react-native-web": "3.0.0-beta.6",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
